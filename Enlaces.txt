@@ -1,0 +1,23 @@
+Enlaces de interés:
+
+Formularios:
+- Edición
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=nhS522ysw0OQrJGktYUZvY6wAV36uyxAq6yzcv5gMS1UNTROWUZPSVdVRFBMRDhaTFRNS0JPMVlMTy4u&Token=62eda915aafd4601811821f3a6a356b2
+
+- Visualización
+https://forms.office.com/r/82qQRJRvXK?origin=lprLink
+
+
+
+Mapa mental Marco teórico:
+https://drive.google.com/file/d/12pvEgvVpQkq6CFbKNX_mWeldp6y5pnff/view
+
+
+
+Videos:
+
+- Design Chipless RFID in Cst Studio
+https://www.youtube.com/watch?v=t9nwpEHlbIE
+
+- Tutorial fabricación antenas tipo parche. Desde CST hasta CNC.
+https://www.youtube.com/watch?v=8kWG_vA871A
